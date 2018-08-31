@@ -1,0 +1,18 @@
+{
+  "name": "@dlevs/tslint-config",
+  "version": "1.0.0",
+  "description": "A TSLint configuration to extend for personal projects.",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlevs/tslint-config"
+  },
+  "author": "Daniel Levett",
+  "license": "ISC",
+  "dependencies": {
+    "tslint-xo": "^0.9.0"
+  }
+}
