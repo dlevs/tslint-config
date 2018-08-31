@@ -5,7 +5,7 @@ A [TSLint](https://palantir.github.io/tslint/) configuration to extend for perso
 ## Install
 
 ```bash
-npm install @dlevs/tslint-config
+npm install -D @dlevs/tslint-config
 ```
 
 ## Usage

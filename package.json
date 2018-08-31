@@ -1,6 +1,6 @@
 {
   "name": "@dlevs/tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TSLint configuration to extend for personal projects.",
   "main": "tslint.json",
   "scripts": {
