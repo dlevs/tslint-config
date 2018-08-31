@@ -38,6 +38,7 @@
 				]
 			]
 		},
-		"object-curly-spacing": [true, "always"]
+		"object-curly-spacing": [true, "always"],
+		"file-name-casing": [false]
 	}
 }
