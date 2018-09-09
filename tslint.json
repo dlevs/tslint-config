@@ -39,6 +39,7 @@
 			]
 		},
 		"object-curly-spacing": [true, "always"],
+		"trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
 		"file-name-casing": [false]
 	}
 }
