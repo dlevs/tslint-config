@@ -40,6 +40,8 @@
 		},
 		"object-curly-spacing": [true, "always"],
 		"trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
-		"file-name-casing": [false]
+		"file-name-casing": [false],
+		"comment-format": [true, "check-space"],
+		"switch-default": false
 	}
 }
